@@ -4,3 +4,15 @@
 
 # Open Source
 
+Quer uma ajuda para seu projeto? Crie uma issue!
+
+________
+#### Repositórios da Front-End Brasil
+
+- [Fórum](https://github.com/frontendbr/forum)
+- [Eventos](https://github.com/frontendbr/eventos)
+- [Vagas](https://github.com/frontendbr/vagas)
+- [Poste mais!](https://github.com/frontendbr/poste-mais)
+- [Open Source](https://github.com/frontendbr/open-source)
+- [Sugestões](https://github.com/frontendbr/sugestoes)
+
