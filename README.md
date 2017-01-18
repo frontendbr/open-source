@@ -27,7 +27,9 @@ Coloque aqui que tipos de skills serão necessários pra trabalhar nesse projeto
 
 #### Projetos similares
 Traga alguns projetos que fazem algo parecido com o que você quer fazer, apenas para comunidade entender melhor quais as referências da sua proposta.
- 
+  
+____________
+
 ## Licença
 
 [MIT](LICENSE.md) &copy; FrontendBR
