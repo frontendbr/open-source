@@ -12,24 +12,27 @@ Criamos um template pra facilitar a criação da Issue.
  
 ____________
 
-# Template de Issue
+### Template de Issue
 
 As issues devem ser criadas nesse formato:
 
-## Nome
+#### Nome
 Não precisa ser algo elaborado, deve ser simples e objetivo.
 
-## Objetivo
+#### Objetivo
 Resuma em poucas palavras a motivação de criar o projeto
 
-## Skills necessários
+#### Skills necessários
 Coloque aqui que tipos de skills serão necessários pra trabalhar nesse projeto. Se precisa de um Front focado em UI, que saiba lidar com interface ou UX, ou se precisa de um Front mais engineer, que lide com ferramentas de build, task runners, etc.
 
-## Projetos similares
+#### Projetos similares
 Traga alguns projetos que fazem algo parecido com o que você quer fazer, apenas para comunidade entender melhor quais as referências da sua proposta.
+ 
+## Licença
 
-________
-#### Repositórios da Front-End Brasil
+[MIT](LICENSE.md) &copy; FrontendBR
+
+## Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
