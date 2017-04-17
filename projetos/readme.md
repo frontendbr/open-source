@@ -20,4 +20,4 @@ Se você possui algum projeto open-source, não deixe de inseri-lo nessa lista, 
 ## Não categorizadas
 
 * [fdaciuk-ajax](https://github.com/fdaciuk/ajax): Ajax module in Vanilla JS
-* [cep-promisse](https://github.com/filipedeschamps/cep-promise): Busca por CEP integrado diretamente aos serviços dos Correios e ViaCEP (Node.js e Browser)
+* [cep-promise](https://github.com/filipedeschamps/cep-promise): Busca por CEP integrado diretamente aos serviços dos Correios e ViaCEP (Node.js e Browser)
