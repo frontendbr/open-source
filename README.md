@@ -4,7 +4,7 @@
 
 # Projetos Open-source
 
-Já possui um projeto ou conhece algum bem bacana feito pela comunidade brasileira? Não deixe de adicioná-lo a [nossa lista](https://github.com/frontendbr/open-source/tree/master/projetos).
+Já possui um projeto ou conhece algum bem bacana feito pela comunidade brasileira? Não deixe de adicioná-lo a [nossa lista](/projetos).
 
 
 ## Peça ajuda para seu projeto
