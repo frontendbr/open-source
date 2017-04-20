@@ -4,6 +4,11 @@
 
 # Projetos Open-source
 
+Já possui um projeto ou conhece algum bem bacana feito pela comunidade brasileira? Não deixe de adicioná-lo a [nossa lista](https://github.com/frontendbr/open-source/tree/master/projetos).
+
+
+## Peça ajuda para seu projeto
+
 Como vimos que na [issue](https://github.com/frontendbr/forum/issues/5) do [Fórum](https://github.com/frontendbr/forum/), temos vários projetos da comunidade que precisam de apoio para resolver algumas issues ou dar um gás no desenvolvimento, resolvemos adicionar esse repositório pra apoiar ou até mesmo criar novos projetos, conforme sugestões da própria comunidade.
  
 ## Como sugerir um projeto
