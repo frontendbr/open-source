@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
-
-# Projetos Open-source
-
-Já possui um projeto ou conhece algum bem bacana feito pela comunidade brasileira? Não deixe de adicioná-lo a [nossa lista](/projetos).
+<h1 align="center">Projetos Open-source</h1>
+<p align="center">:octocat: Quer uma ajuda para seu projeto? Crie uma issue!</p>
 
 
 ## Peça ajuda para seu projeto
