@@ -32,7 +32,7 @@ Se você possui algum projeto open-source, não deixe de inseri-lo nessa lista, 
 * [iziModal](https://github.com/dolce/iziModal): Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 * [iziToast](https://github.com/dolce/iziToast): Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 * [angular-calendarium](https://github.com/lazarofl/angular-calendarium): A lightweight calendar component using angular directives
-
+* [TrulyUI](http://truly-ui.tk): WebComponents for Desktop Applications
 ## Livros
 
 * [css-animations-pocket-guide](https://github.com/daliannyvieira/css-animations-pocket-guide): A pocket guide to get started writing CSS Animations.
