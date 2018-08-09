@@ -48,7 +48,7 @@ Se você possui algum projeto open-source, não deixe de inseri-lo nessa lista, 
 * [bananacss](https://github.com/bananacss/bananacss): The brazilian CSS superset writen in NodeJS.
 
 ## Não categorizadas
-
+* [mentoria-app](https://github.com/MentoriaApp/): Software que busca integrar pessoas que buscam por mentoria com mentores.
 * [strclass](https://github.com/fdaciuk/): A ~200b library to apply CSS classes as strings from objects
 * [getyoutubeid](https://github.com/soutomario/getyoutubeid):  It's a sample project with a Regex and functions in many languages to extract the ID from an Youtube URL
 * [cep-promise](https://github.com/filipedeschamps/cep-promise): Busca por CEP integrado diretamente aos serviços dos Correios e ViaCEP (Node.js e Browser)
