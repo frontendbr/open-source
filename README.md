@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="https://github.com/frontendbr/brand/blob/main/src/png/logo-600px--horizontal--color.png?raw=true" width="400" alt="Front-end Brasil">
 </p>
+
 <h1 align="center">Projetos Open-source</h1>
 <p align="center">:octocat: Quer uma ajuda para seu projeto? Crie uma issue!</p>
 
