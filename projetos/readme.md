@@ -33,6 +33,10 @@ Se você possui algum projeto open-source, não deixe de inseri-lo nessa lista, 
 * [iziToast](https://github.com/dolce/iziToast): Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 * [angular-calendarium](https://github.com/lazarofl/angular-calendarium): A lightweight calendar component using angular directives
 
+## Frameworks
+
+* [PhpSimpleClasses](https://github.com/zimaldo/PhpSimpleClasses): Only what is necessary to start an empty Object Oriented PHP project, with a route scheme.
+
 ## Livros
 
 * [css-animations-pocket-guide](https://github.com/daliannyvieira/css-animations-pocket-guide): A pocket guide to get started writing CSS Animations.
